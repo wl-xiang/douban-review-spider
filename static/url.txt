@@ -1,0 +1,5 @@
+https://movie.douban.com/subject/36081094/reviews?start=0
+https://movie.douban.com/subject/36081094/reviews?start=20
+https://movie.douban.com/subject/36081094/reviews?start=40
+...
+https://movie.douban.com/subject/36081094/reviews?start=7540
